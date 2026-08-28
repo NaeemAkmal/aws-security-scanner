@@ -97,17 +97,10 @@ aws-security-scanner/
 └── README.md
 ```
 
-## Roadmap (Phase 2)
-
-- Additional checks: IAM password policy, unused access keys, EBS/RDS
-  encryption status
-- Multi-region scanning
-- Slack/email alerting on FAIL results
-- Auto-remediation suggestions with one-click IAM policy generation
 
 ## Author
 
-**Naeem Akmal** — Cybersecurity Researcher | CEH | Cloud Security (in progress)
+**Naeem Akmal** — Cybersecurity Researcher | CEH | Cloud Security 
 [GitHub](https://github.com/NaeemAkmal) · [LinkedIn](https://linkedin.com/in/naeemakmal15)
 
 ## Disclaimer
